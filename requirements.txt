@@ -1,0 +1,5 @@
+torch
+numpy
+shapely
+torchvision
+effdet==0.4.1
